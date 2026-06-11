@@ -69,7 +69,7 @@ function Slide2() {
           </div>
         </div>
         <div className="w-2/5 p-8 flex items-center">
-		<img src="/images/sadon.webp" alt="UI" className="w-full h-full object-cover rounded-lg" />
+		<img src="./images/sadon.webp" alt="UI" className="w-full h-full object-cover rounded-lg" />
         </div>
       </div>
     </SlideLayout>
@@ -141,7 +141,7 @@ function Slide4() {
           </div>
         </div>
         <div className="w-2/5 p-8 flex items-center">
-		<img src="/images/GameSystemUI.png" alt="설명" className="w-full h-full object-cover rounded-lg" />
+		<img src="./images/GameSystemUI.png" alt="설명" className="w-full h-full object-cover rounded-lg" />
         </div>
       </div>
     </SlideLayout>
@@ -260,7 +260,7 @@ function Slide6() {
               ))}
             </div>
             <div className="mt-6">
-             <img src="/images/VFX.png" alt="설명" className="w-full h-full object-cover rounded-lg" />
+             <img src="./images/VFX.png" alt="설명" className="w-full h-full object-cover rounded-lg" />
             </div>
           </div>
         </div>
@@ -311,7 +311,7 @@ function Slide7() {
           </div>
         </div>
         <div className="w-2/5 p-6 flex flex-col gap-3">
-		<img src="/images/skill.png" alt="설명" className="w-full h-full object-cover rounded-lg" />          
+		<img src="./images/skill.png" alt="설명" className="w-full h-full object-cover rounded-lg" />          
           <div className="rounded p-3 border border-amber-400 border-opacity-30" style={{ background: "rgba(40,25,0,0.4)" }}>
             <p className="text-amber-400 text-xs font-bold mb-2 text-center">페이로드 다이어그램</p>
             <div className="flex items-center justify-center gap-2 text-xs text-blue-200">
@@ -410,7 +410,7 @@ function Slide9() {
           </div>
         </div>
         <div className="w-2/5 p-8 flex items-center">
-          <img src="/images/iventory.png" alt="설명" className="w-full h-full object-cover rounded-lg" />
+          <img src="./images/iventory.png" alt="설명" className="w-full h-full object-cover rounded-lg" />
         </div>
       </div>
     </SlideLayout>
@@ -453,7 +453,7 @@ function Slide10() {
           </div>
         </div>
         <div className="w-2/5 p-8 flex items-center">
-          <img src="/images/enhanced.png" alt="설명" className="w-full h-full object-cover rounded-lg" />
+          <img src="./images/enhanced.png" alt="설명" className="w-full h-full object-cover rounded-lg" />
         </div>
       </div>
     </SlideLayout>
@@ -548,7 +548,7 @@ function Slide12() {
           </div>
         </div>
         <div className="w-2/5 p-8 flex items-center">
-          <img src="/images/bossui.png" alt="설명" className="w-full h-full object-cover rounded-lg" />        </div>
+          <img src="./images/bossui.png" alt="설명" className="w-full h-full object-cover rounded-lg" />        </div>
       </div>
     </SlideLayout>
   );
@@ -583,7 +583,7 @@ function Slide13() {
           </div>
         </div>
         <div className="w-2/5 p-8 flex items-center">
-          <img src="/images/your-screenshot.png" alt="설명" className="w-full h-full object-cover rounded-lg" />
+          <img src="./images/your-screenshot.png" alt="설명" className="w-full h-full object-cover rounded-lg" />
         </div>
       </div>
     </SlideLayout>
@@ -633,8 +633,8 @@ function Slide14() {
           </div>
         </div>
         <div className="w-2/5 p-6 flex flex-col gap-3">
-          <img src="/images/Telegraph.png" alt="설명" className="w-full h-full object-cover rounded-lg" />
-           <img src="/images/img.jpg" alt="설명" className="w-full h-full object-cover rounded-lg" />
+          <img src="./images/Telegraph.png" alt="설명" className="w-full h-full object-cover rounded-lg" />
+           <img src="./images/img.jpg" alt="설명" className="w-full h-full object-cover rounded-lg" />
 
         </div>
       </div>
@@ -679,7 +679,7 @@ function Slide15() {
           </div>
         </div>
         <div className="w-2/5 p-8 flex items-center">
-           <img src="/images/down.webp" alt="설명" className="w-full h-full object-cover rounded-lg" />
+           <img src="./images/down.webp" alt="설명" className="w-full h-full object-cover rounded-lg" />
 
         </div>
       </div>
@@ -739,7 +739,7 @@ function Slide17() {
         </div>
         <div className="flex-1 grid grid-cols-3 gap-4">
           <div className="col-span-2 grid grid-cols-2 gap-3">
-            <img src="/images/all.png" alt="설명" className="w-full h-full object-cover rounded-lg" />
+            <img src="./images/all.png" alt="설명" className="w-full h-full object-cover rounded-lg" />
                      </div>
           <div className="flex flex-col justify-center gap-2">
             {results.map((r, i) => (

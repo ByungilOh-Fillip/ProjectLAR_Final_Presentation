@@ -69,7 +69,7 @@ function Slide2() {
           </div>
         </div>
         <div className="w-2/5 p-8 flex items-center">
-		<img src="/images/sadon.webp"" alt="UI" className="w-full h-full object-cover rounded-lg" />
+		<img src="/images/sadon.webp" alt="UI" className="w-full h-full object-cover rounded-lg" />
         </div>
       </div>
     </SlideLayout>
